@@ -21,3 +21,5 @@ jsou [Human-Centerd Design by Ideo](https://www.ideo.com/post/design-kit)
 nebo [Stanford dSchool Design Thinking](https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking).
   
 Výuka je organizována přes [Slack](https://4me280.slack.com/).
+
+Najdete nás také na [Twitteru](https://twitter.com/4me280) nebo [Instagramu](https://instagram.com/4me280).
