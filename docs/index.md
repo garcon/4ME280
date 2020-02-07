@@ -6,7 +6,7 @@ title: 4ME280
 Výuka probíhá blokově vždy ve čtvrtek od 12.45 do 17.45 v zimním nebo letním semestru 
 v rámci programu [Multimedia v ekonomické praxi](https://kme.vse.cz/studium/bakalarske-studium/obor-multimedia-v-ekonomicke-praxi/). 
 Vyučujícími jsou [Filip Dědic](https://www.linkedin.com/in/filipdedic/), 
-[Aleš Brom](https://www.linkedin.com/in/ales-brom-8077527/) 
+~~[Aleš Brom](https://www.linkedin.com/in/ales-brom-8077527/), [Jakub Goldmann](https://www.linkedin.com/in/jakubgoldmann)~~ 
 a [Martin Kopta](https://www.linkedin.com/in/kopta).
 
 Teoretická příprava v předmětu probíhá formou domácího samostudia z poskytnutých 
