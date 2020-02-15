@@ -13,12 +13,16 @@ Teoretická příprava v předmětu probíhá formou domácího samostudia z pos
 veřejných zdrojů (videopřednášky, články, kapitoly z knih). Během hodin ve škole 
 pak studenti pracují v týmech na svých projektech.
 
-Předmět sleduje designový proces 
+Tématem letního semestru 2020 je web nebo aplikace městské komunity.
+
+~~Předmět sleduje designový proces 
 [Double Diamond](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond) 
 britské organizace *Design Council* [s úpravami](https://www.dannessler.com/intro-process) 
 od švýcarského návrháře *Dana Nesslera*. Double Diamond srovnáváme s dalšími procesy jako 
 jsou [Human-Centerd Design by Ideo](https://www.ideo.com/post/design-kit) 
-nebo [Stanford dSchool Design Thinking](https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking).
+nebo [Stanford dSchool Design Thinking](https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking).~~
+
+Počínaje letním semestrem 2020 osnovy předmětu vycházejí z rámce [Design Sprint 2.0](https://www.sessionlab.com/templates/design-sprint-2-0/), který vytvořil autor knihy Sprint [Jake Knapp](https://jakeknapp.com/) a berlínská agentura [AJ&Smart](https://ajsmart.com).
   
 Výuka je organizována přes [Slack](https://4me280.slack.com/).
 
