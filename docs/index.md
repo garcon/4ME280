@@ -24,6 +24,6 @@ nebo [Stanford dSchool Design Thinking](https://dschool.stanford.edu/resources-c
 
 Počínaje letním semestrem 2020 osnovy předmětu vycházejí z rámce [Design Sprint 2.0](https://www.sessionlab.com/templates/design-sprint-2-0/), který vytvořil autor knihy Sprint [Jake Knapp](https://jakeknapp.com/) a berlínská agentura [AJ&Smart](https://ajsmart.com).
   
-Výuka je organizována přes [Slack](https://4me280.slack.com/).
+Výuka je organizována přes [Slack](https://4me280.slack.com/). Po dobu uzavření školního campusu probíhá výuka vzdáleně prostřednictvím [Meet JITSI](https://meet.jit.si/).
 
 Najdete nás také na [Twitteru](https://twitter.com/4me280) nebo [Instagramu](https://instagram.com/4me280).
