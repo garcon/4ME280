@@ -26,6 +26,6 @@ Počínaje letním semestrem 2020 osnovy předmětu vycházejí z rámce [Design
 
 ![Plán semestru](./20ls-plan-2.svg "Plán semestru")
 
-Výuka je organizována přes [Slack](https://4me280.slack.com/). Po dobu uzavření školního campusu probíhá výuka vzdáleně prostřednictvím [Meet JITSI](https://meet.jit.si/).
+Výuka je organizována přes [Slack](https://4me280.slack.com/). Po dobu uzavření školního campusu probíhá výuka vzdáleně prostřednictvím [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a89f64dc12bc24fe2adf6b83581821f60%40thread.tacv2/conversations?groupId=78c061a6-83f7-4a31-aacf-cca8d4460cac&tenantId=2b51a4b3-443f-4406-8ca4-19056a79a444). Výsledkem semetrální práce je prezentace tvorby otestovaného prototypu v HTML na [Glitch.com](https://glitch.com/@garcon/4-me-280-20-ls) podle klientského zadání.
 
 Najdete nás také na [Twitteru](https://twitter.com/4me280) nebo [Instagramu](https://instagram.com/4me280).
