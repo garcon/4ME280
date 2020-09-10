@@ -18,14 +18,14 @@ Náplň předmětu vychází z rámce [Design Sprint 2.0](https://www.sessionlab
 ## Plán semestru
 
 <table>
-  <tr><td> středa  </td><td> 9.00—13.00 — papírový prototyp </td><td></td></tr>
-  <tr><td> čtvrtek </td><td> 9.00—15.00 — kurz HTML/CSS </td><td> 15.00—18.00 — základy navrhování s Figmou </td></tr>
-  <tr><td> pátek </td><td> 9.00—15.00 — kurz prototypování v kódu </td><td> 15.00—18.00 — úvod do metodiky design sprint 2.0 </td></tr>
-  <tr><td> pondělí </td><td> 9.00—14.00 — designová výzva (Map) </td><td> 14.00—18.00 — návrhy řešení (Sketch) </td></tr>
-  <tr><td> úterý </td><td> 9.00—14.00 — výběr řešení (Decide) </td><td> 14.00—18.00 — modelování (Storyboard) </td></tr>
-  <tr><td> středa  <td colspan="2"> 9.00—18.00 — tvorba prototypu (Prototype) </td></tr>
-  <tr><td> čtvrtek <td colspan="2"> 9.00—18.00 — validace návrhu (Test) </td></tr>
-  <tr><td> pátek </td><td> 9.00—13.00 — prezentace a hodnocení </td><td></td></tr>
+  <tr><td> středa  </td><td> 9.00—13.00 papírový prototyp </td><td></td></tr>
+  <tr><td> čtvrtek </td><td> 9.00—15.00 kurz HTML/CSS </td><td> 15.00—18.00 základy navrhování s Figmou </td></tr>
+  <tr><td> pátek </td><td> 9.00—15.00 kurz prototypování v kódu </td><td> 15.00—18.00 úvod do metodiky design sprint 2.0 </td></tr>
+  <tr><td> pondělí </td><td> 9.00—14.00 designová výzva (Map) </td><td> 14.00—18.00 návrhy řešení (Sketch) </td></tr>
+  <tr><td> úterý </td><td> 9.00—14.00 výběr řešení (Decide) </td><td> 14.00—18.00 modelování (Storyboard) </td></tr>
+  <tr><td> středa  <td colspan="2"> 9.00—18.00 tvorba prototypu (Prototype) </td></tr>
+  <tr><td> čtvrtek <td colspan="2"> 9.00—18.00 validace návrhu (Test) </td></tr>
+  <tr><td> pátek </td><td> 9.00—13.00 prezentace a hodnocení </td><td></td></tr>
 </table>
 
 Výuka je organizována přes [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a562d24c4bc2c4311a8343ec55cb3b752%40thread.tacv2/conversations?groupId=fb044ea7-c288-48bc-8c9b-c4b7f16d1380&tenantId=2b51a4b3-443f-4406-8ca4-19056a79a444). Výsledkem semetrální práce je prezentace tvorby otestovaného prototypu v HTML na [Glitch.com](https://glitch.com/@4me280) podle klientského zadání.
