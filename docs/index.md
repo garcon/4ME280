@@ -17,6 +17,7 @@ Náplň předmětu vychází z rámce [Design Sprint 2.0](https://www.sessionlab
 
 ## Plán semestru
 
+
 <table>
   <tbody>
     <tr>
@@ -59,6 +60,7 @@ Náplň předmětu vychází z rámce [Design Sprint 2.0](https://www.sessionlab
     </tr>
   </tbody>
 </table>
+
 
 Výuka je organizována přes [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a562d24c4bc2c4311a8343ec55cb3b752%40thread.tacv2/conversations?groupId=fb044ea7-c288-48bc-8c9b-c4b7f16d1380&tenantId=2b51a4b3-443f-4406-8ca4-19056a79a444). Výsledkem semetrální práce je prezentace tvorby otestovaného prototypu v HTML na [Glitch.com](https://glitch.com/@4me280) podle klientského zadání.
 
