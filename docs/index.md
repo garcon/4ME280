@@ -9,6 +9,8 @@ Vyučujícími jsou [Filip Dědic](https://www.linkedin.com/in/filipdedic/),
 [Aleš Brom](https://www.linkedin.com/in/ales-brom-8077527/), [Jakub Goldmann](https://www.linkedin.com/in/jakubgoldmann) 
 a [Martin Kopta](https://www.linkedin.com/in/kopta).
 
+Součástí předmětu je kurz HTML/CSS a prototypování, který vedou [Daniel Srb](https://www.linkedin.com/in/danielsrb/) a [Tomáš Kout](https://www.linkedin.com/in/tom%C3%A1%C5%A1-kout/).
+
 Teoretická příprava v předmětu probíhá formou domácího samostudia z poskytnutých 
 veřejných zdrojů (videopřednášky, články, kapitoly z knih). Během hodin ve škole 
 pak studenti pracují v týmech na svých projektech.
